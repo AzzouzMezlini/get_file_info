@@ -1,0 +1,2 @@
+{nom : C:/Users/Dev/PycharmProjects/get_file_info/data/cheetah-g6eabedbd1_640.jpg, info : [{ taille: 86657, date_creation:1656443289.787227,date_accees:1656444862.0403523}], hash : 1b1abc377d06cb78ce97d7a0c45768920a3133b380052a8ae795c2e974bd3c1a}
+{nom : C:/Users/Dev/PycharmProjects/get_file_info/data/lion-gce51e46a0_640.jpg, info : [{ taille: 48969, date_creation:1656443289.7952807,date_accees:1656444862.0403523}], hash : 7d54f0bef22af9ea713caf9f19cda23bd040e6c3e28151abde4cee38464dda01}
